@@ -1,4 +1,4 @@
-# Authors: Anoosha Samara
+# Authors: Anoosha & Samara
 
 
 # Layout for Developers
