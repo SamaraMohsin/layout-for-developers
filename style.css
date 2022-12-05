@@ -9,6 +9,14 @@
 .Navbar{
     border: 2px solid green;
     height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.myacc{
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
 }
 
 .Content{
