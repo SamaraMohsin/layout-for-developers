@@ -13,17 +13,20 @@ nav{
 .Content{
     border: 2px solid red;
     display: flex;
-    justify-content: space-around;
+    height: 600px;
 }
 
 .Left{
+    width: 25%;
     border: 1px solid yellow;
 }
 
 .Center{
+    width: 50%;
     border: 1px solid blue;
 }
 
 .Right{
+    width: 25%;
     border: 1px solid gray;
 }
