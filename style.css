@@ -6,14 +6,15 @@
     display: flex;
     flex-direction: column;
 }
-nav{
+.Navbar{
     border: 2px solid green;
     height: 40px;
 }
+
 .Content{
     border: 2px solid red;
     display: flex;
-    height: 600px;
+    height: 60vh;
 }
 
 .Left{
@@ -29,4 +30,21 @@ nav{
 .Right{
     width: 25%;
     border: 1px solid gray;
+}
+.Left .image-container{
+    display: flex;
+    align-items: center;
+}
+
+.Center .image-container{
+    display: flex;
+}
+
+.Center .image-container span{
+    margin-top: 10px;
+}
+
+.icons{
+    font-size: 80px;
+    padding: 10px;
 }
