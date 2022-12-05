@@ -5,12 +5,14 @@
 .MainContainer{
     display: flex;
     flex-direction: column;
+    background-color: #CAD5CA;
 }
 .Navbar{
     border: 2px solid green;
     height: 40px;
     display: flex;
     justify-content: space-between;
+    background-color: #62A979;
 }
 .myacc{
     padding: 5px;
@@ -59,3 +61,7 @@
 /* .Welcome {
     background-color: aqua;
 } */
+.image-container{
+    margin: 10px;
+    background-color: white;
+}
